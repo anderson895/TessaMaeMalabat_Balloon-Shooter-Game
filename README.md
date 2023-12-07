@@ -1,4 +1,4 @@
-# Balloon-Shooter-Game
+# Balloon-Shooter-Gamess
 Python GUI with Mysql Database
 
 ![Untitled1](https://github.com/anderson895/Balloon-Shooter-Game/assets/105678913/0a2502a1-6e6c-440e-a248-0b91c3a305c1)
